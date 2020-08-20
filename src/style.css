@@ -1,0 +1,45 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-color:#f5f4f2;
+    height:100%;
+}
+
+.meal-info{
+    text-align:center;
+    margin:50px 100px;
+    padding:20px 20px;
+    border:1px solid black;
+}
+
+.meal-info > img{
+    width:300px;
+    height:300px;
+}
+
+.meal-info > ul > li{
+    list-style-type: none;
+}
+
+.box-respon{
+    border:1px solid #b5aeae;
+    padding:50px 30px;
+    text-align:center;
+    margin:50px 100px;
+}
+
+.box-respon > p{
+    color:#544f4f;
+    font-size:22px;
+}
+
+#listMeal{
+    position:absolute;
+}
+
+footer{
+    background-color:#007bff!important;
+    margin-top:1200px;
+    padding:20px 10px;
+    text-align:center;
+    color:white;
+}
